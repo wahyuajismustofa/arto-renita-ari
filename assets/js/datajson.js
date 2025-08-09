@@ -1,4 +1,4 @@
-const _sheetName = "dekeku_preview-undangan-pernikahan";
+const _sheetName = "arto-renita-ari";
 const _fileName = 'tamu';
 function getParam(variabel) {
   const params = new URLSearchParams(window.location.search);
