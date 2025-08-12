@@ -1,11 +1,10 @@
 /* amira */
 body.amira {
     /* Heading Family */
-    --heading-family: "Nanum Myeongjo", serif;
+    --heading-family: "Qwitcher Grypen", cursive;
     --heading-style: normal;
     --heading-weight: 400;
-    --heading-size: calc(10vw + 0.96px);
-    --heading-lettercase: uppercase;
+    --heading-size: calc(15vw + 0.96px);
 
     /* Body Text */
     --body-text-family: "Benne", serif;
@@ -2535,6 +2534,7 @@ section.protocol-04 .protocol-item-wrap .protocol-item .text-wrap .text {
 }
 .wedding-gift-bank-wrap .bank-item.show {
     display: flex;
+    margin-bottom: 10px;
 }
 /* Bank Detail */
 .wedding-gift-bank-wrap .bank-detail {
